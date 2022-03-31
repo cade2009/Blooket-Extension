@@ -5,7 +5,7 @@ setInterval(() => {
 const getData = () => JSON.parse(localStorage.data)[window.location.pathname];
 setData = async (data) => {
     let src = chrome.runtime.getURL("utils/setData.js");
-    let script = (await (await fetch(src)).text()).replace(/OneMinesraft26969/g, JSON.stringify(data));
+    let script = (await (await fetch(src)).text()).replace(/lol-jude/g, JSON.stringify(data));
     let element = document.createElement("script");
     element.type = "text/javascript";
     element.innerHTML = script;
