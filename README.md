@@ -1,5 +1,5 @@
 # Blooket Extension
-Blooket extension based off: https://github.com/lol-jude/blooket-hack along with more cheats
+Blooket extension based off: https://github.com/lol-jude/blooket-hacks along with more cheats
 
 ## How to Install
 
